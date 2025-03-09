@@ -4,4 +4,4 @@ and exploratory data analysis and machine learning models to train the data and 
 to know the flight ticket price and coustomer satisfaction using user feedback.
 Requirements: Python 3.x, Jupyter Notebook, Data Preprocessing, Visual Studio Code, EDA, ML Flow ui and Streamlit
 
-And also I attached Red bus project illustration in main file for detailed explanation.
+And also I attached project illustration in main file for detailed explanation.
